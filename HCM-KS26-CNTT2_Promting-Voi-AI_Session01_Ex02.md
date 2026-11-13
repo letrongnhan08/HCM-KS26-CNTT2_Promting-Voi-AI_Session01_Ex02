@@ -1,8 +1,12 @@
 Bài 2: Nhận diện 3 loại dữ liệu thuộc "Vùng cấm tuyệt đối" khi sử dụng AI
-Phần 1 (Rà soát \& Phân loại)
+Phần 1 (Rà soát \& Phân loại):
+
 3 loại dữ liệu thuộc "Vùng cấm tuyệt đối"
+
 Nhóm 1: thông tin Thẻ Ngân hàng,Tài Chính: dữ liệu nhạy cảm về giao dịch , nếu bị lộ ra thì có thể bị hack,mất tiền
+
 Nhóm 2: Họ và tên \& SĐT và Địa chỉ nhà \& Ghi chú VIP: bị lộ địa chỉ, bị lộ tên và SĐT ra ngoài, có thể bị người khác mạo danh
+
 Nhóm 3: : file Excel nội bộ của công ty: vi phạm điều khoản bảo mật thông tin của doanh nghiệp lẫn khách hàng
 
 Đối chiếu với Bảng dữ liệu trên:
